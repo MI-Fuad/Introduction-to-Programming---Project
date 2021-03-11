@@ -1,4 +1,4 @@
-# Introduction-to-Programming-PROJECTIntroduction-to-Programming---Project
+# Introduction-to-Programming-PROJECT
 
 SPALIEN small game developed by me in my first year of University./
 To Play, launch in p5 follow instructions./
