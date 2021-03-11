@@ -1,10 +1,10 @@
 # Introduction-to-Programming-PROJECT
 
 SPALIEN small game developed by me in my first year of University.\
-To Play, launch #sketch.js in p5, follow instructions.\
+To Play, launch <b>sketch.js</b> in p5, follow instructions.\
 
 <img src="SPALIEN/images/SS1.png">\
-<img src="SPALIEN/images/SS2.png">\
+<img src="SPALIEN/images/SS2.png">
 
 
 
